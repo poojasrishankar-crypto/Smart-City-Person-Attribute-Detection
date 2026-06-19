@@ -132,5 +132,5 @@ Place them inside the project directory.
 
 ## 👩‍💻 Author
 
-Pooja Shankar  
+Poojasri Shankar  
 Third Year Electronics and Communication Engineering  
